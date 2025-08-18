@@ -874,7 +874,7 @@ export default function TugvaBasvuruSayfa() {
                                     background: 'white',
                                     padding: '0 10px'
                                 }}>
-                                    "
+                                    &quot;
                                 </div>
                                 
                                 {/* Yıldızlar */}
